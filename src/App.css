@@ -1,0 +1,15 @@
+h1{
+    @apply  dark:text-white !important; 
+  }
+  
+  p.text-neutral-600{
+    @apply dark:text-neutral-200 !important; 
+  }
+
+  /* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
