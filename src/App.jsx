@@ -15,6 +15,7 @@ function App (isVisible) {
     <>
       <Router>
         <Navbar />
+        
         <BarSide/>
         <AnimatePresence>
         <div className='xl:ml-[280px]'>
